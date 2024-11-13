@@ -2,7 +2,7 @@ from random import randint, random
 import telebot
 from telebot import types
 
-TOKEN = "7971341692:AAFEaRM5Ng9_lQ5xtzQ0VNwJZkRqdfzMB2M"
+TOKEN = "my token"
 
 bot = telebot.TeleBot(TOKEN)
 random_bot = ["","ножницы", "бумагу", "камень"]
